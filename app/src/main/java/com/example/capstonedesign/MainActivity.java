@@ -11,9 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //아현수정
+
     }
 }
 //지윤 두번째 수정
+//아현 두번째 수정
 //지윤 추가 수정
 //서영님보여요,,,?
